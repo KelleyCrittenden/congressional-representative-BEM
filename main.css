@@ -1,0 +1,39 @@
+html {
+    background-color: #002855;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.represenative-image {
+    display: flex;
+    justify-content: center;
+}
+img {
+    border: 5px solid #98c1d9;
+}
+
+.represenative-info h1 {
+    text-align: center;
+    font-size: 60px;
+    margin: 1px;
+    
+}
+
+.represenative-info h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+  }
+
+a {
+    color: whitesmoke;
+}
+a:hover{
+    color: #98c1d9;
+}
+ 
